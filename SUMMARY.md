@@ -1,24 +1,11 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [🥭 帆式启动器](README.md)
 
-## Overview
+## 🛩 作为用户 <a href="#as-user" id="as-user"></a>
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Page 1](as-user/page-1.md)
 
-## Product Guides
+## 👨💻 作为开发者 <a href="#as-developer" id="as-developer"></a>
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [📦 版本与使用到的库](as-developer/ban-ben-yu-shi-yong-dao-de-ku.md)
